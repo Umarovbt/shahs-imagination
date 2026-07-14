@@ -1,4 +1,4 @@
-# Shah's Imagination
+# Shah's Short Biography
 
 A one-page self-biography site for Shah, styled like a hand-drawn scrapbook — plain HTML and one CSS file, no build tools.
 
